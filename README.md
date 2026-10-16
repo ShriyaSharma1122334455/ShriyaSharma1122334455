@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ShriyaSharma1122334455/ShriyaSharma1122334455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
